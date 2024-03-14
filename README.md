@@ -7,6 +7,7 @@ This repository is part of the AWS-Terraform-Jenkins-Project and is responsible 
 The AWS-Terraform-Jenkins-Project aims to demonstrate a robust deployment pipeline utilizing AWS cloud services like EC2, RDS (MySQL), Route 53, VPC (Subnets, IG, Route tables), AWS Certificate Manager, AWS Elastic Load Balancer, Terraform for infrastructure as code (IAC), and Jenkins for continuous integration and continuous deployment (CI/CD) management.
 
 **Application URL:** Visit our live Flask app at https://loveshbishnoi.de with a custom domain for a professional touch. 
+
 **Jenkins Subdomain:** Access Jenkins securely at https://jenkins.loveshbishnoi.de for CI/CD management.
 
 ## Repositories
