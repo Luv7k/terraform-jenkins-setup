@@ -1,6 +1,6 @@
 # Terraform Jenkins Setup
 
-This repository is part of the AWS-Terraform-Jenkins-Project and is responsible for provisioning Jenkins on an EC2 instance in the us-east-1 region using Terraform.
+This repository is part of the **FlaskOps: Cloud Infrastructure Automation** and is responsible for provisioning Jenkins on an EC2 instance in the us-east-1 region using Terraform.
 
 ## Project Overview
 
@@ -10,9 +10,8 @@ The AWS-Terraform-Jenkins-Project aims to demonstrate a robust deployment pipeli
 
 **Jenkins Subdomain:** Access Jenkins securely at https://jenkins.loveshbishnoi.de for CI/CD management.
 
-## Repositories
+## Related Project Repositories
 
-- [terraform-jenkins-setup](https://github.com/Luv7k/terraform-jenkins-setup): Repository for Jenkins Setup
 - [python-mysql-db-flaskapp](https://github.com/Luv7k/python-mysql-db-flaskapp): Repository for Flask App Deployment
 - [aws-terraform-jenkins-infra](https://github.com/Luv7k/aws-terraform-jenkins-infra.git): Repository for Database and Infra Configuration
 
@@ -28,3 +27,9 @@ Ensure you have Terraform installed locally. Then, follow these steps to provisi
 
 ## Region
 Jenkins will be provisioned in the `us-east-1` region.
+
+## Project Conclusion
+By following the setup instructions provided in each repository, you'll be able to deploy a fully functional Python Flask application on AWS using Jenkins, Terraform, and MySQL RDS. For further assistance or inquiries, please feel free to reach out.
+
+## Disclaimer
+This project is for educational purposes and should be adapted according to your specific requirements and best practices.
